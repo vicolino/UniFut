@@ -19,17 +19,17 @@ Gurizada montamos um regulamento do nosso futebol, afim de esclarecer dúvidas e
  **Mensalistas** 
 - Devem pagar (15 reais ** número total de jogos do mês) até o dia da primeira pelada do mês. Caso não pague até este dia, será considerado como diarista no restante do mês.
 - Ganhará desconto ou não pagará pelos churrascos promovidos no futebol (depende do caixa do time – atualmente temos pouco mais de 30 reais no caixa) 
-- Tem vaga garantida no futebol até a terça-feira (12 horas) que antecede o jogo.
+- Tem vaga garantida no futebol até a segunda-feira (12 horas) que antecede o jogo.
 
  **Diaristas** 
 - Devem pagar 18 reais por jogo.
-- Não possui vaga garantida no futebol. Caso a lista do futebol esteja fechada e um mensalista confirme a sua presença no jogo até a terça-feira (12:00), automaticamente o último diarista a confirmar presença no futebol será excluído do evento. 
+- Não possui vaga garantida no futebol. Caso a lista do futebol esteja fechada e um mensalista confirme a sua presença no jogo até a segunda-feira (12:00), automaticamente o último diarista a confirmar presença no futebol será excluído do evento. 
 - Montaremos uma fila de espera de diaristas que queiram virar mensalistas (teremos no máximo 16 mensalistas). 
 
  **Escolha dos times** 
 - Será realizada por no mínimo dois peladeiros no dia do jogo, considerando a qualidade/posição de cada participante da pelada (não realizaremos mais a prática do par ou ímpar)
 
  **Punições** 
-- Se o peladeiro desistir de jogar a partida após as 12:00 da terça-feira que antecede o jogo ou confirme que irá  jogar e se ausente da partida, deverá pagar a multa de 20 reais. Enquanto não pagar o seu débito estará excluído do grupo e não poderá participar de novas peladas. 
-- Se o peladeiro desistir de jogar a partida após as 12:00 da terça-feira que antecede o jogo, porém sua vaga for preenchida por outra pessoa a multa será cancelada.
+- Se o peladeiro desistir de jogar a partida após as 12:00 da segunda-feira que antecede o jogo ou confirme que irá  jogar e se ausente da partida, deverá pagar a multa de 20 reais. Enquanto não pagar o seu débito estará excluído do grupo e não poderá participar de novas peladas. 
+- Se o peladeiro desistir de jogar a partida após as 12:00 da segunda-feira que antecede o jogo, porém sua vaga for preenchida por outra pessoa a multa será cancelada.
 - O peladeiro que se envolver em briga (agressão física) será automaticamente excluído do grupo.
